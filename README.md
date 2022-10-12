@@ -1,1 +1,1 @@
-# Operations-Management---Gestion-de-Operaciones-ICS3213
+# Operations Management - Gestion de Operaciones - ICS3213
